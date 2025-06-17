@@ -25,7 +25,7 @@ z-index: 100;
 .logo
 {
 position: relative;
-font-size: 30px;
+font-size: 20px;
 color: #fff;
 text-decoration: none;
 font-weight: 600;
@@ -36,10 +36,10 @@ animation: slideright is ease forwards;
 }
 .navbar a {
     display: inline-block;
-    font-size: 30px;
+    font-size: 20px;
     color:#fff;
     text-decoration: none;
-    font-weight: 500;
+    font-weight: 200;
     margin-left: 35px;
     transition: .3s;
     opacity: 0;
@@ -70,26 +70,26 @@ animation: slideright is ease forwards;
 }
 .home-content h3
 {
-    font-size: 90px;
-    font-weight: 700;
+    font-size: 50px;
+    font-weight: 200;
     animation: slideBottom 1s ease forwards;
     animation-delay: .7s;
 
 }
 
 .home-content h1 {
-font-size: 112px;
-font-weight: 700;
+font-size: 70px;
+font-weight: 200;
 margin: -3px 0;
 
 
 }
 .home-content p
 {
-    font-size: 50px;
+    font-size: 30px;
 }
 .aboutme
-{font-size: 40px;
+{font-size: 30px;
     background-image: url(backg.jpg);
     background-size: cover;
     padding-left: 100px;
@@ -128,7 +128,7 @@ margin: -3px 0;
     color: #081b29;
     letter-spacing: 10x;
     text-decoration: none;
-    font-weight: 600;
+    font-weight: 200;
 
 }
 .btn-box {
@@ -139,7 +139,7 @@ margin: -3px 0;
     font-size: 20px;
     color: #081b29;
     letter-spacing: none;
-    font-weight: 600;
+    font-weight: 200;
     animation: slideTop 1s ease forwards;
     animation: 2s;
     box-shadow: 0 0 5px;
