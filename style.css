@@ -28,7 +28,7 @@ position: relative;
 font-size: 20px;
 color: #fff;
 text-decoration: none;
-font-weight: 600;
+font-weight: 300;
 cursor: default;
 opacity: 0;
 animation: slideright is ease forwards;
@@ -39,7 +39,7 @@ animation: slideright is ease forwards;
     font-size: 20px;
     color:#fff;
     text-decoration: none;
-    font-weight: 200;
+    font-weight: 100;
     margin-left: 35px;
     transition: .3s;
     opacity: 0;
@@ -71,15 +71,15 @@ animation: slideright is ease forwards;
 .home-content h3
 {
     font-size: 50px;
-    font-weight: 200;
+    font-weight: 100;
     animation: slideBottom 1s ease forwards;
     animation-delay: .7s;
 
 }
 
 .home-content h1 {
-font-size: 70px;
-font-weight: 200;
+font-size: 40px;
+font-weight: 100;
 margin: -3px 0;
 
 
@@ -133,13 +133,13 @@ margin: -3px 0;
 }
 .btn-box {
     display: inline-block;
-    padding: 12px 28px;
+    padding: 12px 12px;
     background: #0ef;
-    border-radius: 50px;
+    border-radius: 10px;
     font-size: 20px;
     color: #081b29;
     letter-spacing: none;
-    font-weight: 200;
+    font-weight: 100;
     animation: slideTop 1s ease forwards;
     animation: 2s;
     box-shadow: 0 0 5px;
