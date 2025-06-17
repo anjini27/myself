@@ -64,9 +64,10 @@ animation: slideright is ease forwards;
 }
 .home img
 {
-    width: fit-content;
+    width: 50%;
     border-radius: 60%;
     float:right;
+    object-fit:scale-down;
 }
 .home-content h3
 {
